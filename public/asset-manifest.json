@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dec91f3c.chunk.css",
+    "main.js": "/static/js/main.ce99b764.chunk.js",
+    "main.js.map": "/static/js/main.ce99b764.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c336e059.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c336e059.js.map",
+    "static/css/2.7550f3b0.chunk.css": "/static/css/2.7550f3b0.chunk.css",
+    "static/js/2.bd511c7e.chunk.js": "/static/js/2.bd511c7e.chunk.js",
+    "static/js/2.bd511c7e.chunk.js.map": "/static/js/2.bd511c7e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.551dec5b5ae8b4454c4b38e2df76e6be.js": "/precache-manifest.551dec5b5ae8b4454c4b38e2df76e6be.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7550f3b0.chunk.css.map": "/static/css/2.7550f3b0.chunk.css.map",
+    "static/css/main.dec91f3c.chunk.css.map": "/static/css/main.dec91f3c.chunk.css.map",
+    "static/js/2.bd511c7e.chunk.js.LICENSE.txt": "/static/js/2.bd511c7e.chunk.js.LICENSE.txt",
+    "static/media/flaticon.css": "/static/media/Flaticon.c78b6eca.woff",
+    "static/media/style.scss": "/static/media/page-title-bg.075c0003.jpg",
+    "static/media/footer-shape2.png": "/static/media/footer-shape2.7c95f327.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c336e059.js",
+    "static/css/2.7550f3b0.chunk.css",
+    "static/js/2.bd511c7e.chunk.js",
+    "static/css/main.dec91f3c.chunk.css",
+    "static/js/main.ce99b764.chunk.js"
+  ]
+}
